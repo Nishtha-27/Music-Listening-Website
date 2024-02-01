@@ -1,0 +1,100 @@
+
+.skintype{
+    background-color: green;
+    height: 200px;
+    width: 300px;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    text-align: center;
+    padding-top: 5%;
+    position: absolute;
+    left: 0%;
+    display: flex;
+    margin: 0;
+
+}
+#selectOption{
+    height: 15%;
+}
+#select{
+    height: 15%;
+}
+.probleM{
+    background-color: green;
+    height: 200px;
+    width: 300px;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    text-align: center;
+    padding-top: 5%;
+    position: absolute;
+    top: auto;
+    right: 0%;
+    display: flex;
+    align-items: center;
+    
+}
+.circle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px; /* Set the width and height of your circle */
+    height: 200px;
+    border-radius: 50%; /* Make it a circle */
+    background-color: #edf429; 
+    text-align: center;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.eat{
+    background-color: green;
+    height: 200px;
+    width: 300px;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    text-align: center;
+    padding-top: 5%;
+    position: absolute;
+    display: flex;
+    margin-top: 300px;
+    
+    }
+.age{
+    background-color: green;
+    height: 200px;
+    width: 300px;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    text-align: center;
+    padding-top: 5%;
+    position: absolute;
+    top: auto;
+    right: 0%;
+    display: flex;
+    align-items: center;
+    margin-top: 300px;
+    
+    }
+    
+input {
+        padding: 4px;
+        font-size: 8px;
+    }
+    
+button {
+        padding: 5px;
+        font-size: 8px;
+        background-color:rgb(22, 200, 194);
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+#ageInput{
+    height: 5px;
+    width: 40px;
+}
+
